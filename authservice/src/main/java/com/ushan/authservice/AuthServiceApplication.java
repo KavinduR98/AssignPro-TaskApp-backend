@@ -1,4 +1,4 @@
-package com.ushan.authService;
+package com.ushan.authservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
